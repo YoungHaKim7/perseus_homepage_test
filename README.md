@@ -34,6 +34,12 @@ rustc 1.70.0 (90c541806 2023-05-31)
 
 ```
 
+- packages.json setting
+
+```
+$ npm i -D tailwind-hamburgers tailwindcss
+```
+
 - test(Localhost)
 
 http://127.0.0.1:8080/
