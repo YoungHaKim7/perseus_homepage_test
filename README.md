@@ -52,6 +52,13 @@ https://tailwindcss.com/docs/configuration
 $ npm i -D tailwind-hamburgers tailwindcss
 ```
 
+# cargo add perseus-tailwind
+
+```
+cargo add perseus-tailwind
+```
+
+
 - perseus test(Localhost)
 
 http://127.0.0.1:8080/
