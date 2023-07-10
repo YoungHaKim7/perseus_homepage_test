@@ -4,7 +4,7 @@ use sycamore::prelude::*;
 fn index_page<G: Html>(cx: Scope) -> View<G> {
     view! { cx,
         // Don't worry, there are much better ways of styling in Perseus!
-        div(class="bg-sky-500/75") {
+        div(class = "bg-gradient-to-r from-red-500") {
             h1 { "Welcome to Perseus!" }
             p {
                 "This is just an example app. Try changing some code inside "
