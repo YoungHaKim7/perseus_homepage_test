@@ -41,6 +41,9 @@ npx tailwindcss init
 ```
 https://tailwindcss.com/docs/configuration
 
+- config full
+  - https://github.com/tailwindlabs/tailwindcss/blob/master/stubs/config.full.js
+
 - packages.json setting
 
 ```
