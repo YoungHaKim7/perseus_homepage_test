@@ -52,12 +52,12 @@ https://tailwindcss.com/docs/configuration
 $ npm i -D tailwind-hamburgers tailwindcss
 ```
 
-- test(Localhost)
+- perseus test(Localhost)
 
 http://127.0.0.1:8080/
 
 ```
-  
+perseus serve -w 
 ```
 
 
