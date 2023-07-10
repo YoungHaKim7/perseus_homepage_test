@@ -52,6 +52,12 @@ https://tailwindcss.com/docs/configuration
 $ npm i -D tailwind-hamburgers tailwindcss
 ```
 
+- nvm use 18
+
+```
+nvm use 18
+```
+
 # cargo add perseus-tailwind
 
 ```
