@@ -99,7 +99,7 @@ npm notice Run npm install -g npm@9.8.0 to update!
 npm notice
 PS D:\csstest> ls
 
-    Directory: D:b\csstest
+    Directory: D:\csstest
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
