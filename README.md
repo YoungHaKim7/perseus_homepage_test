@@ -122,6 +122,8 @@ PS D:\csstest> perseus serve -w
 
 Overwrite file ```tailwind.css``` of dist folder to file ```tailwind.css``` of static folder. I want to do it in a static folder right away, but I have to copy and put it in to see if there is a bug.
 
+- Save it as ```dist/tailwind.css``` and overwrite the updated ```static/tailwind.css``` with ```dist/tailwind.css```.
+
 ```
 ├─.cargo
 ├─dist
