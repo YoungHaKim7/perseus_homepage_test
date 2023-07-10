@@ -1,11 +1,11 @@
 node_modules/
 package-lock.json
 
-dist/
+# dist/
 target/
 Cargo.lock
 
-static/tailwind.css
+# static/tailwind.css
 tailwindcss-windows-x64.exe
 
 
