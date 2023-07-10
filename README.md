@@ -43,6 +43,8 @@ https://tailwindcss.com/docs/configuration
 
 - config full
   - https://github.com/tailwindlabs/tailwindcss/blob/master/stubs/config.full.js
+  - tailwindcss Plugins
+    - https://tailwindcss.com/docs/plugins
 
 - packages.json setting
 
