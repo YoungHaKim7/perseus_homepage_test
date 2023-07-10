@@ -34,6 +34,12 @@ rustc 1.70.0 (90c541806 2023-05-31)
 
 ```
 
+- npx tailwindcss init
+
+```
+npx tailwindcss init
+```
+
 - packages.json setting
 
 ```
