@@ -5,5 +5,4 @@ dist/
 target/
 Cargo.lock
 
-static/tailwind.css
 tailwindcss-windows-x64.exe
