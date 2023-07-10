@@ -34,6 +34,13 @@ rustc 1.70.0 (90c541806 2023-05-31)
 
 ```
 
+- nvm use 18
+
+```
+nvm use 18
+```
+
+
 - npx tailwindcss init
 
 ```
@@ -52,11 +59,6 @@ https://tailwindcss.com/docs/configuration
 $ npm i -D tailwind-hamburgers tailwindcss
 ```
 
-- nvm use 18
-
-```
-nvm use 18
-```
 
 # cargo add perseus-tailwind
 
