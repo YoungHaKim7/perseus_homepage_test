@@ -34,6 +34,16 @@ rustc 1.70.0 (90c541806 2023-05-31)
 
 ```
 
+- nvm list
+
+```
+nvm list
+
+    20.4.0
+  * 18.16.1 (Currently using 64-bit executable)
+
+```
+
 - nvm use 18
 
 ```
