@@ -100,6 +100,15 @@ PS D:\csstest> cargo add perseus-tailwind
 PS D:\csstest> perseus serve -w
 ```
 
+# file tree & bug
+
+Overwrite file a of dist folder to file b of static folder. I want to do it in a static folder right away, but I have to copy and put it in to see if there is a bug.
+
+```
+
+```
+
+
 <hr>
 
 # Error 
