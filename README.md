@@ -67,6 +67,40 @@ http://127.0.0.1:8080/
 perseus serve -w 
 ```
 
+```
+PS D:\csstest> npx tailwindcss init
+Need to install the following packages:
+  tailwindcss@3.3.2
+Ok to proceed? (y) y
+
+Created Tailwind CSS config file: tailwind.config.js
+npm notice
+npm notice New minor version of npm available! 9.7.2 -> 9.8.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.8.0
+npm notice Run npm install -g npm@9.8.0 to update!
+npm notice
+PS D:\csstest> ls
+
+    Directory: D:b\csstest
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----        2023-07-10  오후 3:06                .cargo
+d----        2023-07-10  오후 3:06                src
+-a---        2023-07-10  오후 3:06             13 .gitignore
+-a---        2023-07-10  오후 3:06            665 Cargo.toml
+-a---        2023-07-10  오후 3:59            128 tailwind.config.js
+
+
+PS D:\csstest> cargo add perseus-tailwind
+    Updating crates.io index
+      Adding perseus-tailwind v0.4.7 to dependencies.
+    Updating crates.io index
+
+PS D:\csstest> perseus serve -w
+```
+
+<hr>
 
 # Error 
 
